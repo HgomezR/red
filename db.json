@@ -1,12 +1,9 @@
-[
-     {
-          "data": {"rows": [{"thostcre": 12, "thostcre3": 12, "tcorrcre": 117.0, "tdomcre1": 235, "tcorrcre2": 128.0, "Total_sem_pasada": 375.0, "tdomcre": 170, "Total_hoy": 299.0}], "columns": [{"friendly_name": "tdomcre", "type": "integer", "name": "tdomcre"}, 
+ { "data": {"rows": [{"thostcre": 12, "thostcre3": 12, "tcorrcre": 117.0, "tdomcre1": 235, "tcorrcre2": 128.0, "Total_sem_pasada": 375.0, "tdomcre": 170, "Total_hoy": 299.0}], "columns": [{"friendly_name": "tdomcre", "type": "integer", "name": "tdomcre"}, 
             {"friendly_name": "tcorrcre", "type": "float", "name": "tcorrcre"}, 
             {"friendly_name": "thostcre", "type": "integer", "name": "thostcre"}, 
             {"friendly_name": "tdomcre1", "type": "integer", "name": "tdomcre1"}, 
             {"friendly_name": "tcorrcre2", "type": "float", "name": "tcorrcre2"}, 
             {"friendly_name": "thostcre3", "type": "integer", "name": "thostcre3"}, 
             {"friendly_name": "Total_hoy", "type": "float", "name": "Total_hoy"}, 
-            {"friendly_name": "Total_sem_pasada", "type": "float", "name": "Total_sem_pasada"}]}
-     }
-  ]
+            {"friendly_name": "Total_sem_pasada", "type": "float", "name": "Total_sem_pasada"}]} }
+
