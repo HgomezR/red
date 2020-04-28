@@ -1,26 +1,10 @@
 [
-    {
-      "id": 1,
-      "name": "Leanne Graham",
-      "username": "Bret",
-      "email": "Sincere@april.biz",
-      "address": {
-        "street": "Kulas Light",
-        "suite": "Apt. 556",
-        "city": "Gwenborough",
-        "zipcode": "92998-3874",
-        "geo": {
-          "lat": "-37.3159",
-          "lng": "81.1496"
-        }
-      },
-      "phone": "1-770-736-8031 x56442",
-      "website": "hildegard.org",
-      "company": {
-        "name": "Romaguera-Crona",
-        "catchPhrase": "Multi-layered client-server neural-net",
-        "bs": "harness real-time e-markets"
-      }
-    
-    }
+     "data": {"rows": [{"thostcre": 12, "thostcre3": 12, "tcorrcre": 117.0, "tdomcre1": 235, "tcorrcre2": 128.0, "Total_sem_pasada": 375.0, "tdomcre": 170, "Total_hoy": 299.0}], "columns": [{"friendly_name": "tdomcre", "type": "integer", "name": "tdomcre"}, 
+            {"friendly_name": "tcorrcre", "type": "float", "name": "tcorrcre"}, 
+            {"friendly_name": "thostcre", "type": "integer", "name": "thostcre"}, 
+            {"friendly_name": "tdomcre1", "type": "integer", "name": "tdomcre1"}, 
+            {"friendly_name": "tcorrcre2", "type": "float", "name": "tcorrcre2"}, 
+            {"friendly_name": "thostcre3", "type": "integer", "name": "thostcre3"}, 
+            {"friendly_name": "Total_hoy", "type": "float", "name": "Total_hoy"}, 
+            {"friendly_name": "Total_sem_pasada", "type": "float", "name": "Total_sem_pasada"}]}
   ]
